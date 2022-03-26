@@ -149,6 +149,28 @@
             ]
           }
         ]
+      },
+      {
+        "organization": {
+          "name": "Indra",
+          "image": {
+            "alt": "1646898677177.jpeg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/26/265d897a-71fc-4eb7-b4f0-21d87bb66bdd_1646898677177.jpeg"
+          },
+          "URL": "https://www.indracompany.com/"
+        },
+        "roles": [
+          {
+            "name": "Desarrollador de software",
+            "startDate": "2011-09-01",
+            "finishDate": "2015-10-01",
+            "challenges": [
+              {
+                "description": "Desarrollador Full-Stack. \nDesarrollo de proyectos para la evolución de los Sistemas Internos de Indra.\n\nImplementación de varios proyectos con distintas tecnologías de frontend (Flex, jQuery Mobile, JSF) pero mismo backend (Spring Framework).\n\nTecnologías: Java, Spring, JSF/Primefaces, FLEX, HTML, CSS, JavaScript, jQuery, Oracle Database, SQL, PL/SQL"
+              }
+            ]
+          }
+        ]
       }
     ]
   },
