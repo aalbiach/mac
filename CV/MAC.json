@@ -186,6 +186,17 @@
           "name": "IES Juan de Garay, Valencia, Espaá",
           "description": ""
         }
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Técnico en Explotación de Sistemas Informáticos",
+        "startDate": "2006-09-01",
+        "finishDate": "2008-07-01",
+        "institution": {
+          "name": "IFPS Cheste, Valencia, España",
+          "description": ""
+        }
       }
     ]
   },
