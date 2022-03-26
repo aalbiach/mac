@@ -64,74 +64,6 @@
       },
       {
         "organization": {
-          "name": "InDenova",
-          "image": {
-            "alt": "indenova-squarelogo-1481682213141.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/26/9d006fd0-c102-4211-a70f-be133734b2cb_indenova-squarelogo-.png"
-          },
-          "URL": "https://www.indenova.com/"
-        },
-        "roles": [
-          {
-            "name": "Desarrollador de software sénior",
-            "startDate": "2015-11-01",
-            "finishDate": "2016-11-01",
-            "challenges": [
-              {
-                "description": "Responsable del producto destinado a la creación y modificación de trámites telemáticos para las administraciones publicas.\nRealización de nuevas funcionalidades y mantenimiento. \nRealizar documentación, pruebas, e implantaciones."
-              }
-            ],
-            "competences": [
-              {
-                "name": "JAVA",
-                "type": "technology"
-              },
-              {
-                "name": "JavaScript",
-                "type": "technology"
-              },
-              {
-                "name": "HTML",
-                "type": "technology"
-              },
-              {
-                "name": "CSS",
-                "type": "technology"
-              },
-              {
-                "name": "jQuery",
-                "type": "technology"
-              },
-              {
-                "name": "SQLServer",
-                "type": "technology"
-              },
-              {
-                "name": "Oracle",
-                "type": "technology"
-              },
-              {
-                "name": "MyBatis",
-                "type": "technology"
-              },
-              {
-                "name": "Struts",
-                "type": "technology"
-              },
-              {
-                "name": "PL/SQL",
-                "type": "technology"
-              },
-              {
-                "name": "Transact-SQL (T-SQL)",
-                "type": "technology"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
           "name": "Indra Software Labs",
           "image": {
             "alt": "1646898677177.jpeg",
@@ -408,6 +340,78 @@
               },
               {
                 "name": "Dart",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "InDenova",
+          "image": {
+            "alt": "indenova-squarelogo-1481682213141.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/26/9d006fd0-c102-4211-a70f-be133734b2cb_indenova-squarelogo-.png"
+          },
+          "URL": "https://www.indenova.com/"
+        },
+        "roles": [
+          {
+            "name": "Desarrollador de software sénior",
+            "startDate": "2015-11-01",
+            "finishDate": "2016-11-01",
+            "challenges": [
+              {
+                "description": "Responsable del producto destinado a la creación y modificación de trámites telemáticos para las administraciones publicas.\nRealización de nuevas funcionalidades y mantenimiento. \nRealizar documentación, pruebas, e implantaciones."
+              }
+            ],
+            "competences": [
+              {
+                "name": "JAVA",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "HTML",
+                "type": "technology"
+              },
+              {
+                "name": "CSS",
+                "type": "technology"
+              },
+              {
+                "name": "jQuery",
+                "type": "technology"
+              },
+              {
+                "name": "SQLServer",
+                "type": "technology"
+              },
+              {
+                "name": "Oracle",
+                "type": "technology"
+              },
+              {
+                "name": "MyBatis",
+                "type": "technology"
+              },
+              {
+                "name": "Struts",
+                "type": "technology"
+              },
+              {
+                "name": "PL/SQL",
+                "type": "technology"
+              },
+              {
+                "name": "Transact-SQL (T-SQL)",
+                "type": "technology"
+              },
+              {
+                "name": "Mercurial",
                 "type": "technology"
               }
             ]
