@@ -447,10 +447,6 @@
                 "type": "technology"
               },
               {
-                "name": "Elasticsearch",
-                "type": "technology"
-              },
-              {
                 "name": "Jenkins",
                 "type": "technology"
               },
@@ -459,19 +455,7 @@
                 "type": "technology"
               },
               {
-                "name": "Kubernetes",
-                "type": "technology"
-              },
-              {
                 "name": "Spring Boot",
-                "type": "technology"
-              },
-              {
-                "name": "Azure",
-                "type": "technology"
-              },
-              {
-                "name": "Kafka",
                 "type": "technology"
               },
               {
@@ -487,10 +471,6 @@
                 "type": "technology"
               },
               {
-                "name": "OpenShift",
-                "type": "technology"
-              },
-              {
                 "name": "REST",
                 "type": "technology"
               },
@@ -499,27 +479,7 @@
                 "type": "technology"
               },
               {
-                "name": "Logstash",
-                "type": "technology"
-              },
-              {
-                "name": "Kibana",
-                "type": "technology"
-              },
-              {
-                "name": "Sonar",
-                "type": "technology"
-              },
-              {
-                "name": "Swagger",
-                "type": "technology"
-              },
-              {
                 "name": "Groovy",
-                "type": "technology"
-              },
-              {
-                "name": "Spring Cloud",
                 "type": "technology"
               },
               {
@@ -528,22 +488,6 @@
               },
               {
                 "name": "Mockito",
-                "type": "technology"
-              },
-              {
-                "name": "OpenApi",
-                "type": "technology"
-              },
-              {
-                "name": "Helm",
-                "type": "technology"
-              },
-              {
-                "name": "Spock",
-                "type": "technology"
-              },
-              {
-                "name": "Gitflow",
                 "type": "technology"
               }
             ]
