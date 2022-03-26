@@ -64,86 +64,6 @@
       },
       {
         "organization": {
-          "name": "Indra Software Labs",
-          "image": {
-            "alt": "1646898677177.jpeg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/26/265d897a-71fc-4eb7-b4f0-21d87bb66bdd_1646898677177.jpeg"
-          },
-          "URL": "https://www.indracompany.com/"
-        },
-        "roles": [
-          {
-            "name": "Desarrollador de software Full-Stack",
-            "startDate": "2011-09-01",
-            "finishDate": "2015-10-01",
-            "challenges": [
-              {
-                "description": "Desarrollo de proyectos para la evolución de los sistemas internos de Indra en la delegación de Indra Software Labs de Valencia.\n\nImplementación de varios proyectos con distintas tecnologías de frontend (Flex, jQuery Mobile, JSF) y con un backend similar implementado en Java + Spring."
-              }
-            ],
-            "competences": [
-              {
-                "name": "JAVA",
-                "type": "technology"
-              },
-              {
-                "name": "Spring",
-                "type": "technology"
-              },
-              {
-                "name": "JavaScript",
-                "type": "technology"
-              },
-              {
-                "name": "HTML",
-                "type": "technology"
-              },
-              {
-                "name": "CSS",
-                "type": "technology"
-              },
-              {
-                "name": "SQL",
-                "type": "technology"
-              },
-              {
-                "name": "jQuery",
-                "type": "technology"
-              },
-              {
-                "name": "Jira",
-                "type": "technology"
-              },
-              {
-                "name": "Oracle",
-                "type": "technology"
-              },
-              {
-                "name": "Primefaces",
-                "type": "technology"
-              },
-              {
-                "name": "JSF",
-                "type": "technology"
-              },
-              {
-                "name": "PL/SQL",
-                "type": "technology"
-              },
-              {
-                "name": "Jasper Reports",
-                "type": "technology"
-              },
-              {
-                "name": "Flex",
-                "type": "technology"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
           "name": "Jeffapp",
           "image": {
             "alt": "1601636875337.jpeg",
@@ -412,6 +332,90 @@
               },
               {
                 "name": "Mercurial",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Indra Software Labs",
+          "image": {
+            "alt": "1646898677177.jpeg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/26/265d897a-71fc-4eb7-b4f0-21d87bb66bdd_1646898677177.jpeg"
+          },
+          "URL": "https://www.indracompany.com/"
+        },
+        "roles": [
+          {
+            "name": "Desarrollador de software Full-Stack",
+            "startDate": "2011-09-01",
+            "finishDate": "2015-10-01",
+            "challenges": [
+              {
+                "description": "Desarrollo de proyectos para la evolución de los sistemas internos de Indra en la delegación de Indra Software Labs de Valencia.\n\nImplementación de varios proyectos con distintas tecnologías de frontend (Flex, jQuery Mobile, JSF) y con un backend similar implementado en Java + Spring."
+              }
+            ],
+            "competences": [
+              {
+                "name": "JAVA",
+                "type": "technology"
+              },
+              {
+                "name": "Spring",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "HTML",
+                "type": "technology"
+              },
+              {
+                "name": "CSS",
+                "type": "technology"
+              },
+              {
+                "name": "SQL",
+                "type": "technology"
+              },
+              {
+                "name": "jQuery",
+                "type": "technology"
+              },
+              {
+                "name": "Jira",
+                "type": "technology"
+              },
+              {
+                "name": "Oracle",
+                "type": "technology"
+              },
+              {
+                "name": "Primefaces",
+                "type": "technology"
+              },
+              {
+                "name": "JSF",
+                "type": "technology"
+              },
+              {
+                "name": "PL/SQL",
+                "type": "technology"
+              },
+              {
+                "name": "SVN",
+                "type": "technology"
+              },
+              {
+                "name": "Jasper Reports",
+                "type": "technology"
+              },
+              {
+                "name": "Flex",
                 "type": "technology"
               }
             ]
