@@ -197,6 +197,17 @@
           "name": "IFPS Cheste, Valencia, España",
           "description": ""
         }
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Educación Secundaria Obligatoria",
+        "startDate": "2001-09-01",
+        "finishDate": "2005-07-01",
+        "institution": {
+          "name": "IES Riba-Roja, Riba-roja de Túria, Valencia, España",
+          "description": ""
+        }
       }
     ]
   },
