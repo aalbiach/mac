@@ -86,28 +86,6 @@
       },
       {
         "organization": {
-          "name": "Jeffapp",
-          "image": {
-            "alt": "1601636875337.jpeg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/26/b94332f4-8019-4748-b5dd-183620bdb42e_1601636875337.jpeg"
-          },
-          "URL": "https://jeff.com/es/"
-        },
-        "roles": [
-          {
-            "name": "Senior Backend Developer",
-            "startDate": "2019-12-01",
-            "finishDate": "2020-10-01",
-            "challenges": [
-              {
-                "description": "Senior Backend Developer a cargo del desarrollo y evolución del backend de Beauty Jeff en el departamento de Producto e Ingeniería.\n\nMe he encargado de desarrollar las nuevas funcionalidades en el backend, creando nuevos microservicios específicos para Beauty Jeff y otros comunes para todas las verticales cuando ha sido necesario. \nMis funciones implican todo el ciclo de desarrollo desde el análisis hasta la puesta en producción, pasando por la implementación de la BBDD, test unitarios/integración, revisiones de código, etc...\n\nArquitectura de Microservicios, Java 11, Spring Boot 2, Spring Feign Clients, Eventos RabbitMQ, Scrum & Kanban, Websocket & Real-time, Docker & Docker Compose, Kubernetes, Metabase Analytics, Segment Analytics, GitHub Flow, CI & CD, Testing JUnit 4 & Mockito, Documentation RESTDocs"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
           "name": "InDenova",
           "image": {
             "alt": "indenova-squarelogo-1481682213141.png",
@@ -356,6 +334,90 @@
               },
               {
                 "name": "Dart",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Jeffapp",
+          "image": {
+            "alt": "1601636875337.jpeg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/26/b94332f4-8019-4748-b5dd-183620bdb42e_1601636875337.jpeg"
+          },
+          "URL": "https://jeff.com/es/"
+        },
+        "roles": [
+          {
+            "name": "Senior Backend Developer",
+            "startDate": "2019-12-01",
+            "finishDate": "2020-10-01",
+            "challenges": [
+              {
+                "description": "Senior Backend Developer a cargo del desarrollo y evolución del backend de Beauty Jeff en el departamento de Producto e Ingeniería.\n\nMe he encargado de desarrollar las nuevas funcionalidades en el backend, creando nuevos microservicios específicos para Beauty Jeff y otros comunes para todas las verticales cuando ha sido necesario. \nMis funciones implican todo el ciclo de desarrollo desde el análisis hasta la puesta en producción, pasando por la implementación de la BBDD, test unitarios/integración, revisiones de código, etc...\n\nArquitectura de Microservicios, Java 11, Spring Boot 2, Spring Feign Clients, Eventos RabbitMQ, Scrum & Kanban, Websocket & Real-time, Docker & Docker Compose, Kubernetes, Metabase Analytics, Segment Analytics, GitHub Flow, CI & CD, Testing JUnit 4 & Mockito, Documentation RESTDocs"
+              }
+            ],
+            "competences": [
+              {
+                "name": "JAVA",
+                "type": "technology"
+              },
+              {
+                "name": "Docker",
+                "type": "technology"
+              },
+              {
+                "name": "Kubernetes",
+                "type": "technology"
+              },
+              {
+                "name": "RabbitMQ",
+                "type": "technology"
+              },
+              {
+                "name": "Spring Boot",
+                "type": "technology"
+              },
+              {
+                "name": "Jira",
+                "type": "technology"
+              },
+              {
+                "name": "API",
+                "type": "technology"
+              },
+              {
+                "name": "REST",
+                "type": "technology"
+              },
+              {
+                "name": "Github",
+                "type": "technology"
+              },
+              {
+                "name": "WebSockets",
+                "type": "technology"
+              },
+              {
+                "name": "JUnit",
+                "type": "technology"
+              },
+              {
+                "name": "Mockito",
+                "type": "technology"
+              },
+              {
+                "name": "OpenApi",
+                "type": "technology"
+              },
+              {
+                "name": "MacOS",
+                "type": "technology"
+              },
+              {
+                "name": "Gitflow",
                 "type": "technology"
               }
             ]
