@@ -174,6 +174,21 @@
       }
     ]
   },
+  "knowledge": {
+    "studies": [
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Técnico Superior en Desarrollo de Aplicaciones Informáticas",
+        "startDate": "2009-09-01",
+        "finishDate": "2011-07-01",
+        "institution": {
+          "name": "IES Juan de Garay, Valencia, Espaá",
+          "description": ""
+        }
+      }
+    ]
+  },
   "careerPreferences": {
     "contact": {
       "publicProfiles": [
