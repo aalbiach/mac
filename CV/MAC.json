@@ -64,28 +64,6 @@
       },
       {
         "organization": {
-          "name": "Sopra Steria",
-          "image": {
-            "alt": "1625145380667.jpeg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/26/5825bc85-5319-4051-ac09-ccff6e5b8dcf_1625145380667.jpeg"
-          },
-          "URL": "https://www.soprasteria.es/"
-        },
-        "roles": [
-          {
-            "name": "Senior Software Engineer",
-            "startDate": "2020-10-01",
-            "finishDate": "2022-03-01",
-            "challenges": [
-              {
-                "description": "Ingeniero de Software Senior en el Centro de Servicios Digital de Sopra Steria, especializado en la creación de soluciones con microservicios Java/Spring Boot.\n\nCliente: Allianz France\nDescripción: desarrollo de orquestador para la ejecución de pruebas UFT definidas en Jira XRay y ejecutas en nodos via Jenkins.\nResponsabilidades Principales:\n• Trabajar en la definición de la arquitectura y la configuración de los entornos.\n• Analizar y diseñar las nuevas funcionalidades.\n• Implementación del software y pruebas unitarias/integración.\n• CI/CD: compilación, testeo.\n• Documentation.\n\nTecnologías: Java 11, Spring Boot 2.5, JUnit 5, Mockito, Maven, Jenkins, Git, Jira XRay\n\n\nCliente: ING Bank\nDescripción: desarrollo de microservicios API REST con Java + SpringBoot.\nResponsabilidades Principales:\n• Involucrado en todas las fases del desarrollo de software: diseño, analisis, desarrollo, testing, despliegue y mantenimiento.\n• Arquitectura de microservicios.\n• Realización de code reviews y pair programming para garantizar desarrollos de alta calidad.\n• Trabajar en la definición de la arquitectura y la configuración de los entornos.\n• Implementación del software y pruebas unitarias/integración/aceptación.\n• CI/CD: compilación, testeo, analisis de calidad, analisis de vulnerabilidades, despliegue continuo.\n• Documentation.\n• Realización de code reviews y pair programming para garantizar desarrollos de alta calidad.\n\nTecnologías: Java 11, Spring Boot 2.4, Spring Cloud, Arquitectura Hexagonal, Docker, K8s, OpenShift, Helm, JUnit 5, Mockito, Spock, Maven, Swagger, JaCoCo, Sonar, Git, Kafka, ELK (Elastic, Logstash, Kibana), Azure DevOps, Azure KeyVault, Azure Pipelines, API Management"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
           "name": "InDenova",
           "image": {
             "alt": "indenova-squarelogo-1481682213141.png",
@@ -414,6 +392,134 @@
               },
               {
                 "name": "MacOS",
+                "type": "technology"
+              },
+              {
+                "name": "Gitflow",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Sopra Steria",
+          "image": {
+            "alt": "1625145380667.jpeg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/26/5825bc85-5319-4051-ac09-ccff6e5b8dcf_1625145380667.jpeg"
+          },
+          "URL": "https://www.soprasteria.es/"
+        },
+        "roles": [
+          {
+            "name": "Senior Software Engineer",
+            "startDate": "2020-10-01",
+            "finishDate": "2022-03-01",
+            "challenges": [
+              {
+                "description": "Ingeniero de Software Senior en el Centro de Servicios Digital de Sopra Steria, especializado en la creación de soluciones con microservicios Java/Spring Boot.\n\nCliente: Allianz France\nDescripción: desarrollo de orquestador para la ejecución de pruebas UFT definidas en Jira XRay y ejecutas en nodos via Jenkins.\nResponsabilidades Principales:\n• Trabajar en la definición de la arquitectura y la configuración de los entornos.\n• Analizar y diseñar las nuevas funcionalidades.\n• Implementación del software y pruebas unitarias/integración.\n• CI/CD: compilación, testeo.\n• Documentation.\n\nTecnologías: Java 11, Spring Boot 2.5, JUnit 5, Mockito, Maven, Jenkins, Git, Jira XRay\n\n\nCliente: ING Bank\nDescripción: desarrollo de microservicios API REST con Java + SpringBoot.\nResponsabilidades Principales:\n• Involucrado en todas las fases del desarrollo de software: diseño, analisis, desarrollo, testing, despliegue y mantenimiento.\n• Arquitectura de microservicios.\n• Realización de code reviews y pair programming para garantizar desarrollos de alta calidad.\n• Trabajar en la definición de la arquitectura y la configuración de los entornos.\n• Implementación del software y pruebas unitarias/integración/aceptación.\n• CI/CD: compilación, testeo, analisis de calidad, analisis de vulnerabilidades, despliegue continuo.\n• Documentation.\n• Realización de code reviews y pair programming para garantizar desarrollos de alta calidad.\n\nTecnologías: Java 11, Spring Boot 2.4, Spring Cloud, Arquitectura Hexagonal, Docker, K8s, OpenShift, Helm, JUnit 5, Mockito, Spock, Maven, Swagger, JaCoCo, Sonar, Git, Kafka, ELK (Elastic, Logstash, Kibana), Azure DevOps, Azure KeyVault, Azure Pipelines, API Management"
+              }
+            ],
+            "competences": [
+              {
+                "name": "JAVA",
+                "type": "technology"
+              },
+              {
+                "name": "Elasticsearch",
+                "type": "technology"
+              },
+              {
+                "name": "Jenkins",
+                "type": "technology"
+              },
+              {
+                "name": "Docker",
+                "type": "technology"
+              },
+              {
+                "name": "Kubernetes",
+                "type": "technology"
+              },
+              {
+                "name": "Spring Boot",
+                "type": "technology"
+              },
+              {
+                "name": "Azure",
+                "type": "technology"
+              },
+              {
+                "name": "Kafka",
+                "type": "technology"
+              },
+              {
+                "name": "Jira",
+                "type": "technology"
+              },
+              {
+                "name": "API",
+                "type": "technology"
+              },
+              {
+                "name": "Git",
+                "type": "technology"
+              },
+              {
+                "name": "OpenShift",
+                "type": "technology"
+              },
+              {
+                "name": "REST",
+                "type": "technology"
+              },
+              {
+                "name": "Maven",
+                "type": "technology"
+              },
+              {
+                "name": "Logstash",
+                "type": "technology"
+              },
+              {
+                "name": "Kibana",
+                "type": "technology"
+              },
+              {
+                "name": "Sonar",
+                "type": "technology"
+              },
+              {
+                "name": "Swagger",
+                "type": "technology"
+              },
+              {
+                "name": "Groovy",
+                "type": "technology"
+              },
+              {
+                "name": "Spring Cloud",
+                "type": "technology"
+              },
+              {
+                "name": "JUnit",
+                "type": "technology"
+              },
+              {
+                "name": "Mockito",
+                "type": "technology"
+              },
+              {
+                "name": "OpenApi",
+                "type": "technology"
+              },
+              {
+                "name": "Helm",
+                "type": "technology"
+              },
+              {
+                "name": "Spock",
                 "type": "technology"
               },
               {
