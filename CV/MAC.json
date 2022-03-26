@@ -367,6 +367,10 @@
                 "type": "technology"
               },
               {
+                "name": "Git",
+                "type": "technology"
+              },
+              {
                 "name": "REST",
                 "type": "technology"
               },
