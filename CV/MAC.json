@@ -549,6 +549,134 @@
             ]
           }
         ]
+      },
+      {
+        "organization": {
+          "name": "Sopra Steria",
+          "image": {
+            "alt": "5825bc85-5319-4051-ac09-ccff6e5b8dcf_1625145380667.jpeg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/26/9ef6e8f2-11bc-4022-84ca-7100a4a433bc_5825bc85-5319-4051-a.jpeg"
+          },
+          "URL": "https://www.soprasteria.es/"
+        },
+        "roles": [
+          {
+            "name": "Senior Software Engineer en ING Bank España",
+            "startDate": "2021-06-01",
+            "finishDate": "2022-03-01",
+            "challenges": [
+              {
+                "description": "Cliente: ING Bank\nDescripción: desarrollo de microservicios API REST con Java + SpringBoot.\nResponsabilidades Principales:\n• Involucrado en todas las fases del desarrollo de software: diseño, análisis, desarrollo, testing, despliegue y mantenimiento.\n• Arquitectura de microservicios.\n• Realización de code reviews y pair programming para garantizar desarrollos de alta calidad.\n• Trabajar en la definición de la arquitectura y la configuración de los entornos.\n• Implementación del software y pruebas unitarias/integración/aceptación.\n• CI/CD: compilación, testeo, análisis de calidad, análisis de vulnerabilidades, despliegue continuo.\n• Documentation.\n• Realización de code reviews y pair programming para garantizar desarrollos de alta calidad."
+              }
+            ],
+            "competences": [
+              {
+                "name": "JAVA",
+                "type": "technology"
+              },
+              {
+                "name": "Kotlin",
+                "type": "technology"
+              },
+              {
+                "name": "Elasticsearch",
+                "type": "technology"
+              },
+              {
+                "name": "Docker",
+                "type": "technology"
+              },
+              {
+                "name": "Kubernetes",
+                "type": "technology"
+              },
+              {
+                "name": "SQL",
+                "type": "technology"
+              },
+              {
+                "name": "Azure",
+                "type": "technology"
+              },
+              {
+                "name": "Kafka",
+                "type": "technology"
+              },
+              {
+                "name": "API",
+                "type": "technology"
+              },
+              {
+                "name": "Git",
+                "type": "technology"
+              },
+              {
+                "name": "OpenShift",
+                "type": "technology"
+              },
+              {
+                "name": "REST",
+                "type": "technology"
+              },
+              {
+                "name": "Maven",
+                "type": "technology"
+              },
+              {
+                "name": "Logstash",
+                "type": "technology"
+              },
+              {
+                "name": "Kibana",
+                "type": "technology"
+              },
+              {
+                "name": "Oracle",
+                "type": "technology"
+              },
+              {
+                "name": "Swagger",
+                "type": "technology"
+              },
+              {
+                "name": "Groovy",
+                "type": "technology"
+              },
+              {
+                "name": "Spring Cloud",
+                "type": "technology"
+              },
+              {
+                "name": "JUnit",
+                "type": "technology"
+              },
+              {
+                "name": "Mockito",
+                "type": "technology"
+              },
+              {
+                "name": "PL/SQL",
+                "type": "technology"
+              },
+              {
+                "name": "OpenApi",
+                "type": "technology"
+              },
+              {
+                "name": "Helm",
+                "type": "technology"
+              },
+              {
+                "name": "Spock",
+                "type": "technology"
+              },
+              {
+                "name": "Gitflow",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
       }
     ]
   },
