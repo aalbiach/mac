@@ -161,12 +161,70 @@
         },
         "roles": [
           {
-            "name": "Desarrollador de software",
+            "name": "Desarrollador de software Full-Stack",
             "startDate": "2011-09-01",
             "finishDate": "2015-10-01",
             "challenges": [
               {
-                "description": "Desarrollador Full-Stack. \nDesarrollo de proyectos para la evolución de los Sistemas Internos de Indra.\n\nImplementación de varios proyectos con distintas tecnologías de frontend (Flex, jQuery Mobile, JSF) pero mismo backend (Spring Framework).\n\nTecnologías: Java, Spring, JSF/Primefaces, FLEX, HTML, CSS, JavaScript, jQuery, Oracle Database, SQL, PL/SQL"
+                "description": "Desarrollo de proyectos para la evolución de los sistemas internos de Indra en la delegación de Indra Software Labs de Valencia.\n\nImplementación de varios proyectos con distintas tecnologías de frontend (Flex, jQuery Mobile, JSF) y con un backend similar implementado en Java + Spring."
+              }
+            ],
+            "competences": [
+              {
+                "name": "JAVA",
+                "type": "technology"
+              },
+              {
+                "name": "Spring",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "HTML",
+                "type": "technology"
+              },
+              {
+                "name": "CSS",
+                "type": "technology"
+              },
+              {
+                "name": "SQL",
+                "type": "technology"
+              },
+              {
+                "name": "jQuery",
+                "type": "technology"
+              },
+              {
+                "name": "Jira",
+                "type": "technology"
+              },
+              {
+                "name": "Oracle",
+                "type": "technology"
+              },
+              {
+                "name": "Primefaces",
+                "type": "technology"
+              },
+              {
+                "name": "JSF",
+                "type": "technology"
+              },
+              {
+                "name": "PL/SQL",
+                "type": "technology"
+              },
+              {
+                "name": "Jasper Reports",
+                "type": "technology"
+              },
+              {
+                "name": "Flex",
+                "type": "technology"
               }
             ]
           }
