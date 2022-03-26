@@ -435,10 +435,10 @@
           {
             "name": "Senior Software Engineer",
             "startDate": "2020-10-01",
-            "finishDate": "2022-03-01",
+            "finishDate": "2021-05-01",
             "challenges": [
               {
-                "description": "Ingeniero de Software Senior en el Centro de Servicios Digital de Sopra Steria, especializado en la creación de soluciones con microservicios Java/Spring Boot.\n\nCliente: Allianz France\nDescripción: desarrollo de orquestador para la ejecución de pruebas UFT definidas en Jira XRay y ejecutas en nodos vía Jenkins.\nResponsabilidades Principales:\n• Trabajar en la definición de la arquitectura y la configuración de los entornos.\n• Analizar y diseñar las nuevas funcionalidades.\n• Implementación del software y pruebas unitarias/integración.\n• CI/CD: compilación, testeo.\n• Documentation.\n\n\nCliente: ING Bank\nDescripción: desarrollo de microservicios API REST con Java + SpringBoot.\nResponsabilidades Principales:\n• Involucrado en todas las fases del desarrollo de software: diseño, análisis, desarrollo, testing, despliegue y mantenimiento.\n• Arquitectura de microservicios.\n• Realización de code reviews y pair programming para garantizar desarrollos de alta calidad.\n• Trabajar en la definición de la arquitectura y la configuración de los entornos.\n• Implementación del software y pruebas unitarias/integración/aceptación.\n• CI/CD: compilación, testeo, análisis de calidad, análisis de vulnerabilidades, despliegue continuo.\n• Documentation.\n• Realización de code reviews y pair programming para garantizar desarrollos de alta calidad."
+                "description": "Ingeniero de Software Senior en el Centro de Servicios Digital de Sopra Steria, especializado en la creación de soluciones con microservicios Java/Spring Boot.\n\nCliente: Allianz France\nDescripción: desarrollo de orquestador para la ejecución de pruebas UFT definidas en Jira XRay y ejecutas en nodos vía Jenkins.\nResponsabilidades Principales:\n• Trabajar en la definición de la arquitectura y la configuración de los entornos.\n• Analizar y diseñar las nuevas funcionalidades.\n• Implementación del software y pruebas unitarias/integración.\n• CI/CD: compilación, testeo.\n• Documentation."
               }
             ],
             "competences": [
