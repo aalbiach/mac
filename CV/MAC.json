@@ -190,22 +190,22 @@
       {
         "studyType": "officialDegree",
         "degreeAchieved": true,
-        "name": "Educación Secundaria Obligatoria",
-        "startDate": "2001-09-01",
-        "finishDate": "2005-07-01",
+        "name": "Técnico Superior en Desarrollo de Aplicaciones Informáticas",
+        "startDate": "2009-09-01",
+        "finishDate": "2011-07-01",
         "institution": {
-          "name": "IES Riba-Roja, Riba-roja de Túria, Valencia, España",
+          "name": "IES Juan de Garay, Valencia, España",
           "description": ""
         }
       },
       {
         "studyType": "officialDegree",
         "degreeAchieved": true,
-        "name": "Técnico Superior en Desarrollo de Aplicaciones Informáticas",
-        "startDate": "2009-09-01",
-        "finishDate": "2011-07-01",
+        "name": "Educación Secundaria Obligatoria",
+        "startDate": "2001-09-01",
+        "finishDate": "2005-07-01",
         "institution": {
-          "name": "IES Juan de Garay, Valencia, España",
+          "name": "IES La Mallá, Riba-roja de Túria, Valencia, España",
           "description": ""
         }
       }
