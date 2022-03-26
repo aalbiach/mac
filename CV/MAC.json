@@ -144,7 +144,53 @@
             "finishDate": "2016-11-01",
             "challenges": [
               {
-                "description": "Responsable del producto destinado a la creación y modificación de trámites telemáticos para las administraciones publicas.\nRealización de nuevas funcionalidades y mantenimiento. \nRealizar documentación, pruebas, e implantaciones.\n\nTecnologías: Java, Struts, HTML, CSS, JavaScript, jQuery, MySQL, MS SQL Server, Oracle Database, SQL"
+                "description": "Responsable del producto destinado a la creación y modificación de trámites telemáticos para las administraciones publicas.\nRealización de nuevas funcionalidades y mantenimiento. \nRealizar documentación, pruebas, e implantaciones."
+              }
+            ],
+            "competences": [
+              {
+                "name": "JAVA",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "HTML",
+                "type": "technology"
+              },
+              {
+                "name": "CSS",
+                "type": "technology"
+              },
+              {
+                "name": "jQuery",
+                "type": "technology"
+              },
+              {
+                "name": "SQLServer",
+                "type": "technology"
+              },
+              {
+                "name": "Oracle",
+                "type": "technology"
+              },
+              {
+                "name": "MyBatis",
+                "type": "technology"
+              },
+              {
+                "name": "Struts",
+                "type": "technology"
+              },
+              {
+                "name": "PL/SQL",
+                "type": "technology"
+              },
+              {
+                "name": "Transact-SQL (T-SQL)",
+                "type": "technology"
               }
             ]
           }
