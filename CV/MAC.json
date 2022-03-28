@@ -892,7 +892,7 @@
         }
       },
       {
-        "studyType": "selfTraining",
+        "studyType": "unaccredited",
         "degreeAchieved": false,
         "name": "Principios SOLID aplicados",
         "startDate": "2019-09-01",
