@@ -935,6 +935,21 @@
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/28/a8c28ba4-5dca-42db-bbca-d30d9a22739f_codely-logo.png"
           }
         }
+      },
+      {
+        "studyType": "unaccredited",
+        "degreeAchieved": false,
+        "name": "DDD en Java",
+        "startDate": "2020-10-01",
+        "institution": {
+          "name": "CodelyTV",
+          "description": "",
+          "URL": "https://pro.codely.tv/library/ddd-en-java-48201/100825/about/",
+          "image": {
+            "alt": "Codely Logo.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/28/340baad9-dde1-49d7-b7b4-ebe375f10ba0_codely-logo.png"
+          }
+        }
       }
     ]
   },
