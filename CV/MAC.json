@@ -890,6 +890,20 @@
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/28/64a8bb5e-b320-4fef-b7fe-437f1b2f2f1f_codely-logo.png"
           }
         }
+      },
+      {
+        "studyType": "selfTraining",
+        "degreeAchieved": false,
+        "name": "Principios SOLID aplicados",
+        "startDate": "2019-09-01",
+        "institution": {
+          "name": "CodelyTV",
+          "description": "",
+          "image": {
+            "alt": "Codely Logo.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/28/68fb8ebc-ab1c-46a7-9306-c3f2b07eae04_codely-logo.png"
+          }
+        }
       }
     ]
   },
