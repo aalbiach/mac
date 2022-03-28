@@ -950,6 +950,21 @@
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/28/340baad9-dde1-49d7-b7b4-ebe375f10ba0_codely-logo.png"
           }
         }
+      },
+      {
+        "studyType": "unaccredited",
+        "degreeAchieved": false,
+        "name": "CQRS: Command Query Responsibility Segregation",
+        "startDate": "2020-11-01",
+        "institution": {
+          "name": "CodelyTV",
+          "description": "",
+          "URL": "https://pro.codely.tv/library/cqrs-command-query-responsibility-segregation-29074/62554/about/",
+          "image": {
+            "alt": "Codely Logo.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/28/ea7f22f3-89f0-4e8e-b4d8-beb2ce1dbd53_codely-logo.png"
+          }
+        }
       }
     ]
   },
