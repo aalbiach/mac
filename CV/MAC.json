@@ -986,6 +986,21 @@
             "type": "technology"
           }
         ]
+      },
+      {
+        "studyType": "unaccredited",
+        "degreeAchieved": false,
+        "name": "Arquitectura Hexagonal",
+        "startDate": "2020-12-01",
+        "institution": {
+          "name": "CodelyTV",
+          "description": "",
+          "URL": "https://pro.codely.tv/library/arquitectura-hexagonal-31201/66748/about/",
+          "image": {
+            "alt": "Codely Logo.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/28/b5bc3bba-995c-4a6f-8eb4-e6a9707e5a6e_codely-logo.png"
+          }
+        }
       }
     ]
   },
