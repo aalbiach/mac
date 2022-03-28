@@ -890,6 +890,21 @@
           "name": "IES La Mallá, Riba-roja de Túria, Valencia, España",
           "description": ""
         }
+      },
+      {
+        "studyType": "unaccredited",
+        "degreeAchieved": false,
+        "name": "Testing: Introducción y buenas prácticas",
+        "startDate": "2019-09-01",
+        "institution": {
+          "name": "CodelyTV",
+          "description": "",
+          "URL": "https://pro.codely.tv/library/testing-introduccion-y-buenas-practicas-44653/90916/about/",
+          "image": {
+            "alt": "Codely Logo.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/28/64a8bb5e-b320-4fef-b7fe-437f1b2f2f1f_codely-logo.png"
+          }
+        }
       }
     ]
   },
