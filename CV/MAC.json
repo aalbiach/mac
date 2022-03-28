@@ -920,6 +920,21 @@
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/28/ca859c12-dfde-4f0e-86c2-1a19b52cc0a0_codely-logo.png"
           }
         }
+      },
+      {
+        "studyType": "unaccredited",
+        "degreeAchieved": false,
+        "name": "Domain-Driven Design - DDD Aplicado",
+        "startDate": "2020-09-01",
+        "institution": {
+          "name": "CodelyTV",
+          "description": "",
+          "URL": "https://pro.codely.tv/library/domain-driven-design-ddd-aplicado-42952/87157/about/",
+          "image": {
+            "alt": "Codely Logo.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/28/a8c28ba4-5dca-42db-bbca-d30d9a22739f_codely-logo.png"
+          }
+        }
       }
     ]
   },
