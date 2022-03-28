@@ -844,21 +844,6 @@
     ],
     "studies": [
       {
-        "studyType": "certification",
-        "degreeAchieved": false,
-        "name": "Testing: Introducción y buenas prácticas",
-        "startDate": "2019-09-01",
-        "institution": {
-          "name": "CodelyTV Pro",
-          "description": "",
-          "URL": "https://pro.codely.tv/library/testing-introduccion-y-buenas-practicas-44653/90916/about/",
-          "image": {
-            "alt": "Codely Logo.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/28/d5c5f31f-b5b8-4266-91d9-b1ea31e4db18_codely-logo.png"
-          }
-        }
-      },
-      {
         "studyType": "officialDegree",
         "degreeAchieved": true,
         "name": "Técnico en Explotación de Sistemas Informáticos",
