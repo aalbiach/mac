@@ -965,6 +965,27 @@
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/28/ea7f22f3-89f0-4e8e-b4d8-beb2ce1dbd53_codely-logo.png"
           }
         }
+      },
+      {
+        "studyType": "unaccredited",
+        "degreeAchieved": false,
+        "name": "CQRS y Event Sourcing con Kotlin y Axon Framework",
+        "startDate": "2020-12-01",
+        "institution": {
+          "name": "CodelyTV",
+          "description": "",
+          "URL": "https://pro.codely.tv/library/cqrs-y-event-sourcing-con-kotlin-y-axon-framework-31950/67816/about/",
+          "image": {
+            "alt": "Codely Logo.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/28/a12f0ad6-c948-4b6b-8068-0ae6e81ca756_codely-logo.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "Kotlin",
+            "type": "technology"
+          }
+        ]
       }
     ]
   },
