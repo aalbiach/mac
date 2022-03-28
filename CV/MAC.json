@@ -1016,6 +1016,21 @@
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/28/754af857-fcaa-4bbd-aee6-69c126831d93_codely-logo.png"
           }
         }
+      },
+      {
+        "studyType": "unaccredited",
+        "degreeAchieved": false,
+        "name": "Refactoring de Code Smells a Clean Code: Bloaters",
+        "startDate": "2021-03-01",
+        "institution": {
+          "name": "CodelyTV",
+          "description": "",
+          "URL": "https://pro.codely.tv/library/refactoring-de-code-smells-a-clean-code-bloaters-62290/176560/about/",
+          "image": {
+            "alt": "Codely Logo.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/28/70e13649-076a-46d4-86ff-2aa3b1d4ad4b_codely-logo.png"
+          }
+        }
       }
     ]
   },
