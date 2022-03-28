@@ -625,7 +625,239 @@
     ]
   },
   "knowledge": {
+    "languages": [
+      {
+        "name": "Spanish"
+      },
+      {
+        "name": "Catalan"
+      },
+      {
+        "name": "Valencian"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "JAVA",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Spring",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Kotlin",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "AWS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MySQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MongoDB",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Elasticsearch",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "SQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MariaDB",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Jenkins",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Docker",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Kubernetes",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Azure",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Kafka",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "RabbitMQ",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Jira",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Spring Boot",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "OpenShift",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Hibernate",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Kibana",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "WebSockets",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Github",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Groovy",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JPA",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JUnit",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Mockito",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Bitbucket",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Spock",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Webflux",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Gradle",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Bash",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Maven",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MacOS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JSON",
+          "type": "technology"
+        }
+      }
+    ],
     "studies": [
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "Testing: Introducción y buenas prácticas",
+        "startDate": "2019-09-01",
+        "institution": {
+          "name": "CodelyTV Pro",
+          "description": "",
+          "URL": "https://pro.codely.tv/library/testing-introduccion-y-buenas-practicas-44653/90916/about/",
+          "image": {
+            "alt": "Codely Logo.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/28/d5c5f31f-b5b8-4266-91d9-b1ea31e4db18_codely-logo.png"
+          }
+        }
+      },
       {
         "studyType": "officialDegree",
         "degreeAchieved": true,
