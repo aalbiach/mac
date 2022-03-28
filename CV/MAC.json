@@ -759,12 +759,6 @@
       },
       {
         "skill": {
-          "name": "WebSockets",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "Github",
           "type": "technology"
         }
