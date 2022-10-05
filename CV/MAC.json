@@ -1,7 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
   "settings": {
-    "language": "EN",
+    "language": "ES",
     "MACVersion": "0.3"
   },
   "aboutMe": {
@@ -17,7 +17,8 @@
       "location": {
         "country": "España",
         "region": "Comunidad Valenciana",
-        "municipality": "Valencia"
+        "municipality": "Valencia",
+        "notes": "Autocompleted using Google Maps API"
       }
     },
     "relevantLinks": [
@@ -1046,11 +1047,27 @@
           "type": "technology"
         },
         {
+          "name": "Git",
+          "type": "technology"
+        },
+        {
+          "name": "GitLab",
+          "type": "technology"
+        },
+        {
+          "name": "Github",
+          "type": "technology"
+        },
+        {
           "name": "Google Cloud",
           "type": "technology"
         },
         {
           "name": "JAVA",
+          "type": "technology"
+        },
+        {
+          "name": "K8s",
           "type": "technology"
         },
         {
@@ -1062,7 +1079,17 @@
           "type": "technology"
         },
         {
+          "name": "OpenShift",
+          "type": "technology"
+        },
+        {
           "name": "Spring Boot",
+          "type": "technology"
+        }
+      ],
+      "discardedCompetences": [
+        {
+          "name": "PHP",
           "type": "technology"
         }
       ],
