@@ -1089,7 +1089,19 @@
       ],
       "discardedCompetences": [
         {
+          "name": "C",
+          "type": "technology"
+        },
+        {
+          "name": "C++",
+          "type": "technology"
+        },
+        {
           "name": "PHP",
+          "type": "technology"
+        },
+        {
+          "name": "Visual Basic",
           "type": "technology"
         }
       ],
