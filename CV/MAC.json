@@ -653,25 +653,7 @@
     "hardSkills": [
       {
         "skill": {
-          "name": "JAVA",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "Spring",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Docker",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Kubernetes",
           "type": "technology"
         }
       },
@@ -683,19 +665,7 @@
       },
       {
         "skill": {
-          "name": "OpenShift",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Spring Boot",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Azure",
+          "name": "Docker",
           "type": "technology"
         }
       },
@@ -707,25 +677,13 @@
       },
       {
         "skill": {
-          "name": "Kibana",
+          "name": "OpenShift",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "Hibernate",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "JPA",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Kafka",
+          "name": "Azure",
           "type": "technology"
         }
       },
@@ -737,43 +695,19 @@
       },
       {
         "skill": {
-          "name": "MariaDB",
+          "name": "JAVA",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "Maven",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Spock",
+          "name": "Kubernetes",
           "type": "technology"
         }
       },
       {
         "skill": {
           "name": "Mockito",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Jenkins",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Webflux",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "MySQL",
           "type": "technology"
         }
       },
@@ -791,13 +725,103 @@
       },
       {
         "skill": {
+          "name": "Kibana",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JPA",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Spring Boot",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Hibernate",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Webflux",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Kafka",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Maven",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "Groovy",
           "type": "technology"
         }
       },
       {
         "skill": {
+          "name": "MariaDB",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "MongoDB",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JSON",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Google Cloud",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MySQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Jenkins",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Jira",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Spock",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Github",
           "type": "technology"
         }
       },
@@ -815,25 +839,7 @@
       },
       {
         "skill": {
-          "name": "JSON",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Jira",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Github",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Elasticsearch",
+          "name": "Bash",
           "type": "technology"
         }
       },
@@ -845,7 +851,7 @@
       },
       {
         "skill": {
-          "name": "Bash",
+          "name": "Elasticsearch",
           "type": "technology"
         }
       },
