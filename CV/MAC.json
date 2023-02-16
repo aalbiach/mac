@@ -653,31 +653,7 @@
     "hardSkills": [
       {
         "skill": {
-          "name": "Groovy",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "MongoDB",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "JSON",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "RabbitMQ",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Kotlin",
           "type": "technology"
         }
       },
@@ -689,61 +665,7 @@
       },
       {
         "skill": {
-          "name": "Github",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Gradle",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Github Actions",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Bash",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "Karate",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Gitflow",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "PL/SQL",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "OpenShift",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Webflux",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Azure",
           "type": "technology"
         }
       },
@@ -755,73 +677,13 @@
       },
       {
         "skill": {
+          "name": "Webflux",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "MariaDB",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Google Cloud",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Jira",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Jenkins",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "API",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Git",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Jetbrains",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Notion",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Spring",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Mockito",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Kafka",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "JUnit",
           "type": "technology"
         }
       },
@@ -839,55 +701,7 @@
       },
       {
         "skill": {
-          "name": "Maven",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "WebSockets",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "ELK",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "MVC",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Confluence",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "NoSQL",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "SQL",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "AWS",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Spring Boot",
           "type": "technology"
         }
       },
@@ -899,13 +713,7 @@
       },
       {
         "skill": {
-          "name": "Kibana",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "MySQL",
+          "name": "K8s",
           "type": "technology"
         }
       },
@@ -917,55 +725,7 @@
       },
       {
         "skill": {
-          "name": "Elasticsearch",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "K8s",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "GitLab",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "OpenApi",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Makefile",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Postman",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "Bitbucket",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Apple macOS",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "REST",
           "type": "technology"
         }
       },
@@ -977,19 +737,139 @@
       },
       {
         "skill": {
-          "name": "Oracle",
+          "name": "Shellscript",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "Shell",
+          "name": "Kotlin",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "Sonar",
+          "name": "Bash",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "PL/SQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Azure",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Spring",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Git",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Mockito",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Spring Boot",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Elasticsearch",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Makefile",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Kibana",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Spring Gateway",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "RabbitMQ",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "OpenShift",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Gitflow",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Google Cloud",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "API",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Kafka",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Maven",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Confluence",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "OpenApi",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Apple macOS",
           "type": "technology"
         }
       },
@@ -1001,19 +881,133 @@
       },
       {
         "skill": {
+          "name": "MongoDB",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Groovy",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Github Actions",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Jetbrains",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Jenkins",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MVC",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MySQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "NoSQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "GitLab",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Postman",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Sonar",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "Swagger",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "Shellscript",
+          "name": "Github",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "Spring Gateway",
+          "name": "Gradle",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Jira",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Notion",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JUnit",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "ELK",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "WebSockets",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "SQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "REST",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Oracle",
           "type": "technology"
         }
       }
