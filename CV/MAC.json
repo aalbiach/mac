@@ -1,34 +1,34 @@
 {
-  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.5/schema/schema.json",
   "settings": {
     "language": "ES",
-    "MACVersion": "0.3"
+    "MACVersion": "0.5"
   },
   "aboutMe": {
     "profile": {
       "name": "Álvaro",
       "surnames": "Albiach Rodrigo",
       "title": "Senior Software Engineer",
-      "description": "",
+      "description": "Soy programador con más de 10 años de experiencia. Mi objetivo principal es desarrollarme como Backend Developer. \nSiempre busco nuevos retos, tanto a nivel profesional como personal. \n\nMe gusta y me apasiona mi trabajo, busco siempre la calidad del código y mejorar en todos los aspectos posibles el software.\n\nSoy defensor de crear código limpio, mantenible y testable, utilizando principios SOLID. \n\nTambién me gusta transmitir mi propio conocimiento obtenido a través de la experiencia.",
       "avatar": {
-        "alt": "2019-09-14 07.34.17 1.jpg",
-        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/25/82e854e3-64ba-41b9-9c37-545e7f35e969_2019-09-14-07.jpg"
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/25/82e854e3-64ba-41b9-9c37-545e7f35e969_2019-09-14-07.jpg",
+        "alt": "2019-09-14 07.34.17 1.jpg"
       },
       "location": {
+        "notes": "Autocompleted using Google Maps API (id: ChIJb7Dv8ExPYA0ROR1_HwFRo7Q)",
         "country": "España",
         "region": "Comunidad Valenciana",
-        "municipality": "Valencia",
-        "notes": "Autocompleted using Google Maps API"
+        "municipality": "Valencia"
       }
     },
     "relevantLinks": [
       {
-        "type": "github",
-        "URL": "https://github.com/aalbiach"
-      },
-      {
         "type": "linkedin",
         "URL": "https://www.linkedin.com/in/alvaroalbiach/"
+      },
+      {
+        "type": "github",
+        "URL": "https://github.com/aalbiach"
       }
     ]
   },
@@ -38,8 +38,8 @@
         "organization": {
           "name": "SNGULAR",
           "image": {
-            "alt": "Instagram Positive Sngular logo.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/05/a3f417e1-9540-4a54-a331-c89dda05b536_instagram-positive-s.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/05/a3f417e1-9540-4a54-a331-c89dda05b536_instagram-positive-s.png",
+            "alt": "Instagram Positive Sngular logo.png"
           },
           "URL": "https://www.sngular.com/"
         },
@@ -47,11 +47,6 @@
           {
             "name": "Expert Backend Software Engineer",
             "startDate": "2022-03-01",
-            "challenges": [
-              {
-                "description": ""
-              }
-            ],
             "competences": [
               {
                 "name": "API",
@@ -73,8 +68,8 @@
         "organization": {
           "name": "Sopra Steria",
           "image": {
-            "alt": "5825bc85-5319-4051-ac09-ccff6e5b8dcf_1625145380667.jpeg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/26/9ef6e8f2-11bc-4022-84ca-7100a4a433bc_5825bc85-5319-4051-a.jpeg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/26/9ef6e8f2-11bc-4022-84ca-7100a4a433bc_5825bc85-5319-4051-a.jpeg",
+            "alt": "5825bc85-5319-4051-ac09-ccff6e5b8dcf_1625145380667.jpeg"
           },
           "URL": "https://www.soprasteria.es/"
         },
@@ -201,8 +196,8 @@
         "organization": {
           "name": "Sopra Steria",
           "image": {
-            "alt": "1625145380667.jpeg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/26/5825bc85-5319-4051-ac09-ccff6e5b8dcf_1625145380667.jpeg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/26/5825bc85-5319-4051-ac09-ccff6e5b8dcf_1625145380667.jpeg",
+            "alt": "1625145380667.jpeg"
           },
           "URL": "https://www.soprasteria.es/"
         },
@@ -273,8 +268,8 @@
         "organization": {
           "name": "Jeffapp",
           "image": {
-            "alt": "1601636875337.jpeg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/26/b94332f4-8019-4748-b5dd-183620bdb42e_1601636875337.jpeg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/26/b94332f4-8019-4748-b5dd-183620bdb42e_1601636875337.jpeg",
+            "alt": "1601636875337.jpeg"
           },
           "URL": "https://jeff.com/es/"
         },
@@ -361,8 +356,8 @@
         "organization": {
           "name": "Housers",
           "image": {
-            "alt": "1628840475415.jpeg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/26/a77afd5e-e68a-404c-8901-3a1c746c59c2_1628840475415.jpeg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/26/a77afd5e-e68a-404c-8901-3a1c746c59c2_1628840475415.jpeg",
+            "alt": "1628840475415.jpeg"
           },
           "URL": "https://www.housers.com/"
         },
@@ -454,7 +449,7 @@
                 "type": "technology"
               },
               {
-                "name": "Sonar",
+                "name": "SonarQube",
                 "type": "technology"
               },
               {
@@ -477,8 +472,8 @@
         "organization": {
           "name": "InDenova",
           "image": {
-            "alt": "indenova-squarelogo-1481682213141.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/26/9d006fd0-c102-4211-a70f-be133734b2cb_indenova-squarelogo-.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/26/9d006fd0-c102-4211-a70f-be133734b2cb_indenova-squarelogo-.png",
+            "alt": "indenova-squarelogo-1481682213141.png"
           },
           "URL": "https://www.indenova.com/"
         },
@@ -549,8 +544,8 @@
         "organization": {
           "name": "Indra Software Labs",
           "image": {
-            "alt": "1646898677177.jpeg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/26/265d897a-71fc-4eb7-b4f0-21d87bb66bdd_1646898677177.jpeg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/26/265d897a-71fc-4eb7-b4f0-21d87bb66bdd_1646898677177.jpeg",
+            "alt": "1646898677177.jpeg"
           },
           "URL": "https://www.indracompany.com/"
         },
@@ -570,7 +565,7 @@
                 "type": "technology"
               },
               {
-                "name": "Flex",
+                "name": "FlexBox",
                 "type": "technology"
               },
               {
@@ -634,68 +629,25 @@
   "knowledge": {
     "languages": [
       {
-        "name": "Catalan",
+        "name": "CA",
+        "fullName": "Catalán / Valenciano",
         "level": "Native or bilingual proficiency"
       },
       {
-        "name": "English",
+        "name": "EN",
+        "fullName": "Inglés",
         "level": "Limited working proficiency"
       },
       {
-        "name": "Spanish",
-        "level": "Native or bilingual proficiency"
-      },
-      {
-        "name": "Valencian",
+        "name": "ES",
+        "fullName": "Español",
         "level": "Native or bilingual proficiency"
       }
     ],
     "hardSkills": [
       {
         "skill": {
-          "name": "JSON",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Docker",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Karate",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "JAVA",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Webflux",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "MariaDB",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Kubernetes",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "JPA",
+          "name": "API",
           "type": "technology"
         }
       },
@@ -707,67 +659,13 @@
       },
       {
         "skill": {
-          "name": "Spock",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "K8s",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Hibernate",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Bitbucket",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Helm",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Shellscript",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Kotlin",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Bash",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "PL/SQL",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "Azure",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "Spring",
+          "name": "Docker",
           "type": "technology"
         }
       },
@@ -779,55 +677,7 @@
       },
       {
         "skill": {
-          "name": "Mockito",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Spring Boot",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Elasticsearch",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Makefile",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Kibana",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Spring Gateway",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "RabbitMQ",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "OpenShift",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Gitflow",
+          "name": "Github Actions",
           "type": "technology"
         }
       },
@@ -839,67 +689,31 @@
       },
       {
         "skill": {
-          "name": "API",
+          "name": "Gradle",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "Kafka",
+          "name": "Hibernate",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "Maven",
+          "name": "JAVA",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "Confluence",
+          "name": "JPA",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "OpenApi",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Apple macOS",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Spring Cloud",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "MongoDB",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Groovy",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Github Actions",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Jetbrains",
+          "name": "JUnit",
           "type": "technology"
         }
       },
@@ -911,7 +725,49 @@
       },
       {
         "skill": {
+          "name": "Kafka",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Karate",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Kotlin",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Kubernetes",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "MVC",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Maven",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Mockito",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MongoDB",
           "type": "technology"
         }
       },
@@ -929,73 +785,19 @@
       },
       {
         "skill": {
-          "name": "GitLab",
+          "name": "OpenApi",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "Postman",
+          "name": "Oracle",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "Sonar",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Swagger",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Github",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Gradle",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Jira",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Notion",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "JUnit",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "ELK",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "WebSockets",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "SQL",
+          "name": "PL/SQL",
           "type": "technology"
         }
       },
@@ -1007,7 +809,49 @@
       },
       {
         "skill": {
-          "name": "Oracle",
+          "name": "SQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "SonarQube",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Spock",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Spring",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Spring Boot",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Spring Cloud",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "WebSockets",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Webflux",
           "type": "technology"
         }
       }
@@ -1016,30 +860,14 @@
       {
         "studyType": "unaccredited",
         "degreeAchieved": false,
-        "name": "Refactoring de Code Smells a Clean Code: Bloaters",
-        "startDate": "2021-03-01",
+        "name": "Arquitectura Hexagonal",
+        "startDate": "2020-12-01",
         "institution": {
           "name": "CodelyTV",
-          "description": "",
-          "URL": "https://pro.codely.tv/library/refactoring-de-code-smells-a-clean-code-bloaters-62290/176560/about/",
+          "URL": "https://pro.codely.tv/library/arquitectura-hexagonal-31201/66748/about/",
           "image": {
-            "alt": "Codely Logo.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/28/70e13649-076a-46d4-86ff-2aa3b1d4ad4b_codely-logo.png"
-          }
-        }
-      },
-      {
-        "studyType": "unaccredited",
-        "degreeAchieved": false,
-        "name": "Comunicación entre microservicios: Event-Driven Architecture",
-        "startDate": "2021-02-01",
-        "institution": {
-          "name": "CodelyTV",
-          "description": "",
-          "URL": "https://pro.codely.tv/library/comunicacion-entre-microservicios-event-driven-architecture-35834/74823/about/",
-          "image": {
-            "alt": "Codely Logo.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/28/754af857-fcaa-4bbd-aee6-69c126831d93_codely-logo.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/28/b5bc3bba-995c-4a6f-8eb4-e6a9707e5a6e_codely-logo.png",
+            "alt": "Codely Logo.png"
           }
         }
       },
@@ -1050,11 +878,10 @@
         "startDate": "2020-12-01",
         "institution": {
           "name": "CodelyTV",
-          "description": "",
           "URL": "https://pro.codely.tv/library/cqrs-y-event-sourcing-con-kotlin-y-axon-framework-31950/67816/about/",
           "image": {
-            "alt": "Codely Logo.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/28/a12f0ad6-c948-4b6b-8068-0ae6e81ca756_codely-logo.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/28/a12f0ad6-c948-4b6b-8068-0ae6e81ca756_codely-logo.png",
+            "alt": "Codely Logo.png"
           }
         },
         "linkedCompetences": [
@@ -1067,30 +894,28 @@
       {
         "studyType": "unaccredited",
         "degreeAchieved": false,
-        "name": "Arquitectura Hexagonal",
-        "startDate": "2020-12-01",
+        "name": "CQRS: Command Query Responsibility Segregation",
+        "startDate": "2020-11-01",
         "institution": {
           "name": "CodelyTV",
-          "description": "",
-          "URL": "https://pro.codely.tv/library/arquitectura-hexagonal-31201/66748/about/",
+          "URL": "https://pro.codely.tv/library/cqrs-command-query-responsibility-segregation-29074/62554/about/",
           "image": {
-            "alt": "Codely Logo.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/28/b5bc3bba-995c-4a6f-8eb4-e6a9707e5a6e_codely-logo.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/28/ea7f22f3-89f0-4e8e-b4d8-beb2ce1dbd53_codely-logo.png",
+            "alt": "Codely Logo.png"
           }
         }
       },
       {
         "studyType": "unaccredited",
         "degreeAchieved": false,
-        "name": "CQRS: Command Query Responsibility Segregation",
-        "startDate": "2020-11-01",
+        "name": "Comunicación entre microservicios: Event-Driven Architecture",
+        "startDate": "2021-02-01",
         "institution": {
           "name": "CodelyTV",
-          "description": "",
-          "URL": "https://pro.codely.tv/library/cqrs-command-query-responsibility-segregation-29074/62554/about/",
+          "URL": "https://pro.codely.tv/library/comunicacion-entre-microservicios-event-driven-architecture-35834/74823/about/",
           "image": {
-            "alt": "Codely Logo.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/28/ea7f22f3-89f0-4e8e-b4d8-beb2ce1dbd53_codely-logo.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/28/754af857-fcaa-4bbd-aee6-69c126831d93_codely-logo.png",
+            "alt": "Codely Logo.png"
           }
         }
       },
@@ -1101,11 +926,10 @@
         "startDate": "2020-10-01",
         "institution": {
           "name": "CodelyTV",
-          "description": "",
           "URL": "https://pro.codely.tv/library/ddd-en-java-48201/100825/about/",
           "image": {
-            "alt": "Codely Logo.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/28/340baad9-dde1-49d7-b7b4-ebe375f10ba0_codely-logo.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/28/340baad9-dde1-49d7-b7b4-ebe375f10ba0_codely-logo.png",
+            "alt": "Codely Logo.png"
           }
         }
       },
@@ -1116,26 +940,34 @@
         "startDate": "2020-09-01",
         "institution": {
           "name": "CodelyTV",
-          "description": "",
           "URL": "https://pro.codely.tv/library/domain-driven-design-ddd-aplicado-42952/87157/about/",
           "image": {
-            "alt": "Codely Logo.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/28/a8c28ba4-5dca-42db-bbca-d30d9a22739f_codely-logo.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/28/a8c28ba4-5dca-42db-bbca-d30d9a22739f_codely-logo.png",
+            "alt": "Codely Logo.png"
           }
         }
       },
       {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Educación Secundaria Obligatoria",
+        "startDate": "2001-09-01",
+        "institution": {
+          "name": "IES La Mallá, Riba-roja de Túria, Valencia, España"
+        },
+        "finishDate": "2005-07-01"
+      },
+      {
         "studyType": "unaccredited",
         "degreeAchieved": false,
-        "name": "Testing: Introducción y buenas prácticas",
+        "name": "Git: Introducción y trabajo en equipo",
         "startDate": "2019-09-01",
         "institution": {
           "name": "CodelyTV",
-          "description": "",
-          "URL": "https://pro.codely.tv/library/testing-introduccion-y-buenas-practicas-44653/90916/about/",
+          "URL": "https://pro.codely.tv/library/git-introduccion-y-trabajo-en-equipo-45727/93728/about/",
           "image": {
-            "alt": "Codely Logo.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/28/64a8bb5e-b320-4fef-b7fe-437f1b2f2f1f_codely-logo.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/28/ca859c12-dfde-4f0e-86c2-1a19b52cc0a0_codely-logo.png",
+            "alt": "Codely Logo.png"
           }
         }
       },
@@ -1146,26 +978,38 @@
         "startDate": "2019-09-01",
         "institution": {
           "name": "CodelyTV",
-          "description": "",
           "URL": "https://pro.codely.tv/library/principios-solid-aplicados-36875/77070/about/",
           "image": {
-            "alt": "Codely Logo.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/28/68fb8ebc-ab1c-46a7-9306-c3f2b07eae04_codely-logo.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/28/68fb8ebc-ab1c-46a7-9306-c3f2b07eae04_codely-logo.png",
+            "alt": "Codely Logo.png"
           }
         }
       },
       {
         "studyType": "unaccredited",
         "degreeAchieved": false,
-        "name": "Git: Introducción y trabajo en equipo",
+        "name": "Refactoring de Code Smells a Clean Code: Bloaters",
+        "startDate": "2021-03-01",
+        "institution": {
+          "name": "CodelyTV",
+          "URL": "https://pro.codely.tv/library/refactoring-de-code-smells-a-clean-code-bloaters-62290/176560/about/",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/28/70e13649-076a-46d4-86ff-2aa3b1d4ad4b_codely-logo.png",
+            "alt": "Codely Logo.png"
+          }
+        }
+      },
+      {
+        "studyType": "unaccredited",
+        "degreeAchieved": false,
+        "name": "Testing: Introducción y buenas prácticas",
         "startDate": "2019-09-01",
         "institution": {
           "name": "CodelyTV",
-          "description": "",
-          "URL": "https://pro.codely.tv/library/git-introduccion-y-trabajo-en-equipo-45727/93728/about/",
+          "URL": "https://pro.codely.tv/library/testing-introduccion-y-buenas-practicas-44653/90916/about/",
           "image": {
-            "alt": "Codely Logo.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/28/ca859c12-dfde-4f0e-86c2-1a19b52cc0a0_codely-logo.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/28/64a8bb5e-b320-4fef-b7fe-437f1b2f2f1f_codely-logo.png",
+            "alt": "Codely Logo.png"
           }
         }
       },
@@ -1174,32 +1018,39 @@
         "degreeAchieved": true,
         "name": "Técnico Superior en Desarrollo de Aplicaciones Informáticas",
         "startDate": "2009-09-01",
-        "finishDate": "2011-07-01",
         "institution": {
-          "name": "IES Juan de Garay, Valencia, España",
-          "description": ""
-        }
+          "name": "IES Juan de Garay, Valencia, España"
+        },
+        "finishDate": "2011-07-01"
       },
       {
         "studyType": "officialDegree",
         "degreeAchieved": true,
         "name": "Técnico en Explotación de Sistemas Informáticos",
         "startDate": "2006-09-01",
-        "finishDate": "2008-07-01",
         "institution": {
-          "name": "IFPS Cheste, Valencia, España",
-          "description": ""
+          "name": "IFPS Cheste, Valencia, España"
+        },
+        "finishDate": "2008-07-01"
+      }
+    ],
+    "softSkills": [
+      {
+        "skill": {
+          "name": "Aprendizaje Continuo",
+          "type": "practice"
         }
       },
       {
-        "studyType": "officialDegree",
-        "degreeAchieved": true,
-        "name": "Educación Secundaria Obligatoria",
-        "startDate": "2001-09-01",
-        "finishDate": "2005-07-01",
-        "institution": {
-          "name": "IES La Mallá, Riba-roja de Túria, Valencia, España",
-          "description": ""
+        "skill": {
+          "name": "Capacidad de autogestión",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Trabajo en equipo",
+          "type": "practice"
         }
       }
     ]
@@ -1208,9 +1059,16 @@
     "contact": {
       "publicProfiles": [
         {
-          "type": "linkedin",
-          "URL": "https://www.linkedin.com/in/alvaroalbiach/"
+          "URL": "https://www.linkedin.com/in/alvaroalbiach/",
+          "type": "linkedin"
+        },
+        {
+          "URL": "https://github.com/aalbiach",
+          "type": "github"
         }
+      ],
+      "contactMails": [
+        "alvaro.albiach@gmail.com"
       ]
     },
     "preferences": {
@@ -1232,23 +1090,11 @@
           "type": "technology"
         },
         {
-          "name": "GitLab",
-          "type": "technology"
-        },
-        {
-          "name": "Github",
-          "type": "technology"
-        },
-        {
           "name": "Google Cloud",
           "type": "technology"
         },
         {
           "name": "JAVA",
-          "type": "technology"
-        },
-        {
-          "name": "K8s",
           "type": "technology"
         },
         {
@@ -1260,7 +1106,7 @@
           "type": "technology"
         },
         {
-          "name": "OpenShift",
+          "name": "Kubernetes",
           "type": "technology"
         },
         {
@@ -1270,19 +1116,7 @@
       ],
       "discardedCompetences": [
         {
-          "name": "C",
-          "type": "technology"
-        },
-        {
-          "name": "C++",
-          "type": "technology"
-        },
-        {
           "name": "PHP",
-          "type": "technology"
-        },
-        {
-          "name": "Visual Basic",
           "type": "technology"
         }
       ],
@@ -1293,5 +1127,8 @@
       ]
     },
     "status": "notAvailable"
+  },
+  "manfredSpecificData": {
+    "desiredJobDescription": "Me gustaría un trabajo que tuviera grandes retos tecnológicos. Para mi es un must trabajar a ser posible en empresas de producto y con las últimas tecnologías. Sobre stack me gustaría que fuese con Java/Kotlin y Spring Boot, aunque no tengo problemas en adaptarme a otros lenguajes y frameworks, pero es con el que realmente me siento cómodo y tengo una gran experiencia. Y sobre todo me gustaría continuar trabajando con microservicios, colas mensajería, buenas practicas a nivel de equipo, peer reviews, etc...\n\nTambién me parece importante trabajar con gente que sea referente en su área y tener una buena mentorización para poder seguir creciendo y aprendiendo."
   }
 }
