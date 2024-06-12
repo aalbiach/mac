@@ -53,7 +53,7 @@
                 "type": "technology"
               },
               {
-                "name": "JAVA",
+                "name": "Java",
                 "type": "technology"
               },
               {
@@ -117,11 +117,11 @@
                 "type": "technology"
               },
               {
-                "name": "JAVA",
+                "name": "JUnit",
                 "type": "technology"
               },
               {
-                "name": "JUnit",
+                "name": "Java",
                 "type": "technology"
               },
               {
@@ -229,11 +229,11 @@
                 "type": "technology"
               },
               {
-                "name": "JAVA",
+                "name": "JUnit",
                 "type": "technology"
               },
               {
-                "name": "JUnit",
+                "name": "Java",
                 "type": "technology"
               },
               {
@@ -309,11 +309,11 @@
                 "type": "technology"
               },
               {
-                "name": "JAVA",
+                "name": "JUnit",
                 "type": "technology"
               },
               {
-                "name": "JUnit",
+                "name": "Java",
                 "type": "technology"
               },
               {
@@ -405,15 +405,15 @@
                 "type": "technology"
               },
               {
-                "name": "JAVA",
-                "type": "technology"
-              },
-              {
                 "name": "JPA",
                 "type": "technology"
               },
               {
                 "name": "JUnit",
+                "type": "technology"
+              },
+              {
+                "name": "Java",
                 "type": "technology"
               },
               {
@@ -497,7 +497,7 @@
                 "type": "technology"
               },
               {
-                "name": "JAVA",
+                "name": "Java",
                 "type": "technology"
               },
               {
@@ -573,15 +573,15 @@
                 "type": "technology"
               },
               {
-                "name": "JAVA",
-                "type": "technology"
-              },
-              {
                 "name": "JSF",
                 "type": "technology"
               },
               {
                 "name": "Jasper Reports",
+                "type": "technology"
+              },
+              {
+                "name": "Java",
                 "type": "technology"
               },
               {
@@ -701,13 +701,13 @@
       },
       {
         "skill": {
-          "name": "JAVA",
+          "name": "JPA",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "JPA",
+          "name": "Java",
           "type": "technology"
         }
       },
@@ -1088,7 +1088,7 @@
           "type": "technology"
         },
         {
-          "name": "JAVA",
+          "name": "Java",
           "type": "technology"
         },
         {
@@ -1133,7 +1133,7 @@
         "type": "technology"
       },
       {
-        "name": "JAVA",
+        "name": "Java",
         "type": "technology"
       },
       {
