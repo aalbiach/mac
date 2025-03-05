@@ -1060,9 +1060,6 @@
           "URL": "https://github.com/aalbiach",
           "type": "github"
         }
-      ],
-      "contactMails": [
-        "alvaro.albiach@gmail.com"
       ]
     },
     "preferences": {
@@ -1120,7 +1117,7 @@
         "Full-stack Developer"
       ]
     },
-    "status": "notAvailable"
+    "status": "openToOffers"
   },
   "manfredSpecificData": {
     "mainStackTechs": [
