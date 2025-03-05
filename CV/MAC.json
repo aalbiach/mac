@@ -1150,6 +1150,6 @@
         "type": "technology"
       }
     ],
-    "desiredJobDescription": "Me gustaría un trabajo que tuviera grandes retos tecnológicos. Para mi es un must trabajar a ser posible en empresas de producto y con las últimas tecnologías. Sobre stack me gustaría que fuese con Java/Kotlin y Spring Boot, aunque no tengo problemas en adaptarme a otros lenguajes y frameworks, pero es con el que realmente me siento cómodo y tengo una gran experiencia. Y sobre todo me gustaría continuar trabajando con microservicios, colas mensajería, buenas practicas a nivel de equipo, peer reviews, etc...\n\nTambién me parece importante trabajar con gente que sea referente en su área y tener una buena mentorización para poder seguir creciendo y aprendiendo."
+    "desiredJobDescription": "Me gustaría un trabajo que tuviera grandes retos tecnológicos. Me gustaría trabajar en empresas de producto y con las últimas tecnologías. Sobre el stack me tengo mucha experiencia trabajando con Java + SpringBoot, pero me gustaría trabajar con Kotlin u otros lenguajes y/o frameworks. No tengo problemas en adaptarme a nuevos retos. Y sobre todo me gustaría desarrollar microservicios, con eventos, alta concurrencia, buenas practicas a nivel de equipo, etc...\n\nTambién me parece importante trabajar con gente que sea referente en su área y tener una buena mentorización para poder seguir creciendo y aprendiendo."
   }
 }
